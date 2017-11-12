@@ -57,3 +57,14 @@ class PolynomeToStringTests(TestCase):
         polynom = Polynome([0.102, -1.1, -4.5000, 0.00120])
 
         self.assertEqual("0.102x^3 - 1.1x^2 - 4.5x + 0.0012", polynom.ToString())
+
+
+    def test_toString_when_minus1_at_start(self):
+        polynom = Polynome([-1, -3, -4, 0])
+
+        self.assertEqual("- x^3 - 3x^2 - 4x", polynom.ToString())
+
+    def test_toString_when_polynom_has_cooef1(self):
+        polynom = Polynome([8, -4, -2, 1, -2, -1, 0])
+
+        self.assertEqual("8x^6 - 4x^5 - 2x^4 + x^3 - 2x^2 - x", polynom.ToString())
