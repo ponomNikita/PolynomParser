@@ -104,6 +104,29 @@ class Polynome:
     def __rmul__(self, other):
         return self.__mul__(other)
 
+    def __eq__(self, other):
+
+        if not isinstance(other, Polynome):
+            return NotImplemented
+
+        if len(self.cooefs) != len(other.cooefs):
+            return False
+
+        for i in range(0, len(self.cooefs)):
+            if self.cooefs[i] != other.cooefs[i]:
+                return False
+
+        return True
+
+    def __ne__(self, other):
+
+        result = self.__eq__(other)
+
+        if result == NotImplemented:
+            return result
+
+        return not result
+
 
 
 

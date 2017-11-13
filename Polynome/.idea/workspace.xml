@@ -13,12 +13,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="polynome.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/polynome.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
-              <caret line="40" column="28" lean-forward="true" selection-start-line="40" selection-start-column="28" selection-end-line="40" selection-end-column="28" />
+            <state relative-caret-position="272">
+              <caret line="121" column="0" lean-forward="false" selection-start-line="121" selection-start-column="0" selection-end-line="121" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -27,8 +27,8 @@
       <file leaf-file-name="polynomsSumTests.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tests/polynomsSumTests.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-51">
-              <caret line="8" column="17" lean-forward="true" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
               </folding>
@@ -36,11 +36,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="polynomsDiffTests.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="polynomsDiffTests.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tests/polynomsDiffTests.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="35" lean-forward="true" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+            <state relative-caret-position="204">
+              <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
               </folding>
@@ -48,10 +48,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="polynomeMultTests.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="polynomeEqualTests.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/polynomeEqualTests.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#29#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="polynomeMultTests.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tests/polynomeMultTests.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-136">
+            <state relative-caret-position="-51">
               <caret line="3" column="35" lean-forward="true" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
@@ -63,7 +75,7 @@
       <file leaf-file-name="polynomeToStringTests.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tests/polynomeToStringTests.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
+            <state relative-caret-position="34">
               <caret line="3" column="38" lean-forward="true" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
@@ -75,7 +87,7 @@
       <file leaf-file-name="polynomeInitializationTests.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tests/polynomeInitializationTests.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
+            <state relative-caret-position="34">
               <caret line="3" column="44" lean-forward="true" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
@@ -104,10 +116,11 @@
         <option value="$PROJECT_DIR$/tests/polynomeMultTests.py" />
         <option value="$PROJECT_DIR$/tests/polynomeToStringTests.py" />
         <option value="$PROJECT_DIR$/src/polynome.py" />
+        <option value="$PROJECT_DIR$/tests/polynomeEqualTests.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="676" />
     <option name="width" value="697" />
     <option name="height" value="735" />
@@ -127,7 +140,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -150,6 +162,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="RunDashboard">
@@ -164,8 +177,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests for polynomsDiffTests.PolynomesDiffTests">
-    <configuration name="Unittests for polynomeMultTests.PolynomesMultTests" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Unittests in tests">
+    <configuration name="Unittests for C:/github/PolynomParser/Polynome/tests/polynomeMultTests.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
@@ -175,11 +188,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Polynome" />
+      <option name="_new_pattern" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;polynomeMultTests.PolynomesMultTests&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/polynomeMultTests.py&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
-    <configuration name="Unittests for polynomeMultTests.PolynomesMultTests.test_mult_polynoms2" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for C:/github/PolynomParser/Polynome/tests/polynomeToStringTests.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
@@ -189,11 +203,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Polynome" />
+      <option name="_new_pattern" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;polynomeMultTests.PolynomesMultTests.test_mult_polynoms2&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/polynomeToStringTests.py&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
-    <configuration name="Unittests for polynomeToStringTests.PolynomeToStringTests" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for C:/github/PolynomParser/Polynome/tests/polynomsDiffTests.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
@@ -203,11 +218,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Polynome" />
+      <option name="_new_pattern" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;polynomeToStringTests.PolynomeToStringTests&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/polynomsDiffTests.py&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
-    <configuration name="Unittests for polynomeToStringTests.PolynomeToStringTests.test_toString_when_minus1_at_start" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for C:/github/PolynomParser/Polynome/tests/polynomsSumTests.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
@@ -217,11 +233,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Polynome" />
+      <option name="_new_pattern" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;polynomeToStringTests.PolynomeToStringTests.test_toString_when_minus1_at_start&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/polynomsSumTests.py&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
-    <configuration name="Unittests for polynomsDiffTests.PolynomesDiffTests" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests in tests" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
@@ -232,23 +249,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Polynome" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;polynomsDiffTests.PolynomesDiffTests&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests for polynomsDiffTests.PolynomesDiffTests" />
-      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests for polynomeMultTests.PolynomesMultTests" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests for polynomeToStringTests.PolynomeToStringTests.test_toString_when_minus1_at_start" />
-      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests for polynomeToStringTests.PolynomeToStringTests" />
-      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests for polynomeMultTests.PolynomesMultTests.test_mult_polynoms2" />
+      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests for C:/github/PolynomParser/Polynome/tests/polynomeMultTests.py" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests for C:/github/PolynomParser/Polynome/tests/polynomeToStringTests.py" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests for C:/github/PolynomParser/Polynome/tests/polynomsDiffTests.py" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests for C:/github/PolynomParser/Polynome/tests/polynomsSumTests.py" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in tests" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests for polynomsDiffTests.PolynomesDiffTests" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests for polynomeMultTests.PolynomesMultTests" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests for polynomeToStringTests.PolynomeToStringTests" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests for polynomeMultTests.PolynomesMultTests.test_mult_polynoms2" />
-        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests for polynomeToStringTests.PolynomeToStringTests.test_toString_when_minus1_at_start" />
+        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in tests" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests for C:/github/PolynomParser/Polynome/tests/polynomsSumTests.py" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests for C:/github/PolynomParser/Polynome/tests/polynomsDiffTests.py" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests for C:/github/PolynomParser/Polynome/tests/polynomeToStringTests.py" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests for C:/github/PolynomParser/Polynome/tests/polynomeMultTests.py" />
       </list>
     </recent_temporary>
   </component>
@@ -266,58 +283,57 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_for_polynomeMultTests_PolynomesMultTests - 2017.11.12 at 20h 36m 20s.xml">
-      <configuration name="Unittests for polynomeMultTests.PolynomesMultTests" configurationId="tests" />
+    <history-entry file="Unittests_for_polynomeEqualTests_PolynomesEqualityTests - 2017.11.13 at 21h 22m 51s.xml">
+      <configuration name="Unittests for polynomeEqualTests.PolynomesEqualityTests" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_polynomeMultTests_PolynomesMultTests - 2017.11.12 at 20h 37m 11s.xml">
-      <configuration name="Unittests for polynomeMultTests.PolynomesMultTests" configurationId="tests" />
+    <history-entry file="Unittests_in_polynomeEqualTests_py - 2017.11.13 at 21h 28m 27s.xml">
+      <configuration name="Unittests in polynomeEqualTests.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_polynomeMultTests_PolynomesMultTests - 2017.11.12 at 20h 44m 26s.xml">
-      <configuration name="Unittests for polynomeMultTests.PolynomesMultTests" configurationId="tests" />
+    <history-entry file="Unittests_in_polynomeInitializationTests_py - 2017.11.13 at 21h 28m 32s.xml">
+      <configuration name="Unittests in polynomeInitializationTests.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_polynomeMultTests_PolynomesMultTests - 2017.11.12 at 20h 56m 22s.xml">
-      <configuration name="Unittests for polynomeMultTests.PolynomesMultTests" configurationId="tests" />
+    <history-entry file="Unittests_in_polynomeMultTests_py - 2017.11.13 at 21h 28m 36s.xml">
+      <configuration name="Unittests in polynomeMultTests.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_polynomeMultTests_PolynomesMultTests_test_mult_polynoms2 - 2017.11.12 at 20h 50m 12s.xml">
-      <configuration name="Unittests for polynomeMultTests.PolynomesMultTests.test_mult_polynoms2" configurationId="tests" />
+    <history-entry file="Unittests_in_polynomeToStringTests_py - 2017.11.13 at 21h 28m 47s.xml">
+      <configuration name="Unittests in polynomeToStringTests.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_polynomeMultTests_PolynomesMultTests_test_mult_polynoms2 - 2017.11.12 at 20h 51m 07s.xml">
-      <configuration name="Unittests for polynomeMultTests.PolynomesMultTests.test_mult_polynoms2" configurationId="tests" />
+    <history-entry file="Unittests_in_polynomsDiffTests_py - 2017.11.13 at 21h 28m 51s.xml">
+      <configuration name="Unittests in polynomsDiffTests.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_polynomeMultTests_PolynomesMultTests_test_mult_polynoms2 - 2017.11.12 at 20h 54m 09s.xml">
-      <configuration name="Unittests for polynomeMultTests.PolynomesMultTests.test_mult_polynoms2" configurationId="tests" />
+    <history-entry file="Unittests_in_polynomsSumTests_py - 2017.11.13 at 21h 28m 56s.xml">
+      <configuration name="Unittests in polynomsSumTests.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_polynomeToStringTests_PolynomeToStringTests - 2017.11.12 at 20h 55m 29s.xml">
-      <configuration name="Unittests for polynomeToStringTests.PolynomeToStringTests" configurationId="tests" />
+    <history-entry file="Unittests_in_tests - 2017.11.13 at 21h 27m 00s.xml">
+      <configuration name="Unittests in tests" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_polynomeToStringTests_PolynomeToStringTests - 2017.11.12 at 20h 56m 15s.xml">
-      <configuration name="Unittests for polynomeToStringTests.PolynomeToStringTests" configurationId="tests" />
+    <history-entry file="Unittests_in_tests - 2017.11.13 at 21h 27m 43s.xml">
+      <configuration name="Unittests in tests" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_polynomsDiffTests_PolynomesDiffTests - 2017.11.12 at 20h 56m 28s.xml">
-      <configuration name="Unittests for polynomsDiffTests.PolynomesDiffTests" configurationId="tests" />
+    <history-entry file="Unittests_in_tests - 2017.11.13 at 21h 32m 04s.xml">
+      <configuration name="Unittests in tests" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30283913" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30283913" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4037855" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4037855" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -338,17 +354,68 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/polynome.py">
+    <entry file="file://$PROJECT_DIR$/src/polynome.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="680">
+          <caret line="40" column="28" lean-forward="false" selection-start-line="40" selection-start-column="28" selection-end-line="40" selection-end-column="28" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/polynomsSumTests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="17" lean-forward="true" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/polynomeMultTests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="3" column="35" lean-forward="true" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/polynomeToStringTests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="3" column="38" lean-forward="true" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tests/polynomeInitializationTests.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
+        <state relative-caret-position="34">
+          <caret line="3" column="44" lean-forward="true" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/polynomsDiffTests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="35" lean-forward="true" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polynome.py" />
+    <entry file="file://$PROJECT_DIR$/tests/polynomeInitializationTests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
           <caret line="3" column="44" lean-forward="true" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
@@ -364,27 +431,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/polynomsSumTests.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-51">
-          <caret line="8" column="17" lean-forward="true" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/polynome.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="40" column="28" lean-forward="true" selection-start-line="40" selection-start-column="28" selection-end-line="40" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tests/polynomeToStringTests.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
+        <state relative-caret-position="34">
           <caret line="3" column="38" lean-forward="true" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
@@ -392,10 +441,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/polynomeMultTests.py">
+    <entry file="file://$PROJECT_DIR$/tests/polynomsSumTests.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-136">
-          <caret line="3" column="35" lean-forward="true" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
           </folding>
@@ -404,8 +453,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tests/polynomsDiffTests.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="35" lean-forward="true" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+        <state relative-caret-position="204">
+          <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/polynome.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="121" column="0" lean-forward="false" selection-start-line="121" selection-start-column="0" selection-end-line="121" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/polynomeEqualTests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/polynomeMultTests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-51">
+          <caret line="3" column="35" lean-forward="true" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
           </folding>
